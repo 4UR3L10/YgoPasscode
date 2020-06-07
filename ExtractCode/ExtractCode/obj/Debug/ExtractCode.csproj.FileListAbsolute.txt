@@ -1,0 +1,9 @@
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\bin\Debug\ExtractCode.exe.config
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\bin\Debug\ExtractCode.exe
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\bin\Debug\ExtractCode.pdb
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\obj\Debug\ExtractCode.csprojAssemblyReference.cache
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\obj\Debug\ExtractCode.FormGetPasscode.resources
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\obj\Debug\ExtractCode.Properties.Resources.resources
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\obj\Debug\ExtractCode.csproj.GenerateResource.cache
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\obj\Debug\ExtractCode.exe
+C:\Users\Aurelio\source\repos\ExtractCode\ExtractCode\obj\Debug\ExtractCode.pdb
