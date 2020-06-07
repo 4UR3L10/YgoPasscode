@@ -1,6 +1,6 @@
 # YgoPasscode
 
-// To use this program find the .exe [Windows only and you should have .Net framework install]
+// To use this program find the .exe [Windows only and you should have .Net framework installed]
 
 // This program is to extract the CardID of yugioh cards from an HTML code inside of a .txt file 
 // the website should be https://db.ygoprodeck.com/sets/
